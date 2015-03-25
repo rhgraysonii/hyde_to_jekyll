@@ -1,31 +1,7 @@
 # HydeToJekyll
-
-TODO: Write a gem description
-
-## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'hyde_to_jekyll'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install hyde_to_jekyll
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Contributing
-
-1. Fork it ( https://github.com/[my-github-username]/hyde_to_jekyll/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+## Intention
+A lot of people run a blog backed by a relational database.
+Often, the rendered HTML of this code is easily accessible.
+This is a gem that strives to take that, and with a single operatoin create a jekyll page, removing the need
+for a database from your blog, and allowing you to adopt the wonderful way of life that is markdown and Vi
+for all blogging desires.

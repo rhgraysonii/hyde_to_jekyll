@@ -8,5 +8,4 @@ group :test, :development do
 end
 
 gem 'rspec'
-gem 'reverse_markdown'
 
